@@ -1,19 +1,19 @@
 # Other Country update now you can use them:
 
-1.Argentina - ar
-2.Greece - gr
-3.Netherlands - nl
-4.South Africa - za
-5.Australia - au
-6.New Zealand - nz
-7.Belgium - be
-8.United Kingdom - gb
-9.Slovenia - si
-10.Germany - de
-11.Russia - ru
-12.France - fr
-13.Saudi Arabia - sa
-14.Japan - jp
+1.Argentina - ar\
+2.Greece - gr\
+3.Netherlands - nl\
+4.South Africa - za\
+5.Australia - au\
+6.New Zealand - nz\
+7.Belgium - be\
+8.United Kingdom - gb\
+9.Slovenia - si\
+10.Germany - de\
+11.Russia - ru\
+12.France - fr\
+13.Saudi Arabia - sa\
+14.Japan - jp\
 15.Mexico - mx
 
 
